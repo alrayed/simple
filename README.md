@@ -1,1 +1,1 @@
-https://alrayed.github.io/simple/
+creating a calculator with html,css &j s.
